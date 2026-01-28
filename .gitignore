@@ -59,13 +59,15 @@ Temporary Items
 *.old
 
 #additional omissions
-./tilesets/
-./sprites/
-./sounds/
-./shaders/
-./rooms/
-./options/
-./fonts/
-./datafiles/
+/tilesets
+/sprites
+/sounds
+/shaders
+/rooms
+/options
+/fonts
+/datafiles
+/objects
 *.yyp
 *.yy
+
